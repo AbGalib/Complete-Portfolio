@@ -39,6 +39,7 @@ section{
   
   .nav li {
     float: left;
+    padding-left: 1vw;
     
   }
   
@@ -76,14 +77,14 @@ h1 span{
 }
 
 .portfolio{
-    padding-bottom: 4vw;
+    padding-bottom: 2vw;
     padding-left: 16vw;
     padding-top: 2vw;
     
 }
 .bt{
     text-align: center;
-    padding-bottom: 3vw;
+    padding-bottom: 50px;
 }
 .anchor-button{
     text-decoration: none;
@@ -162,4 +163,52 @@ h2{
 
 footer p{
     text-align: center;
+}
+
+.heading{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    color:cadetblue;
+}
+
+.education{
+    margin: 10px 300px;
+}
+
+.education .school{
+    height: 200px;
+    width: 30%;
+    margin: 10px 10px;
+    float: left;
+    text-align: center;
+    background-color: azure;
+   
+}
+
+
+
+.education .clg{
+    height: 200px;
+    width: 30%;
+    margin: 10px 10px;
+    float: left;
+    text-align: center;
+    background-color: azure;
+
+}
+
+.education .varsity{
+    height: 200px;
+    width: 30%;
+    margin: 10px 10px;
+    float: left;
+    text-align: center;
+    background-color: azure;
+
+}
+
+.imgresponsive{
+    height: 350px;
+    width: 100% ;
 }
