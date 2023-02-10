@@ -77,11 +77,13 @@ h1 span{
 
 .portfolio{
     padding-bottom: 4vw;
+    padding-left: 16vw;
+    padding-top: 2vw;
     
 }
 .bt{
     text-align: center;
-    padding-bottom: 6vw;
+    padding-bottom: 3vw;
 }
 .anchor-button{
     text-decoration: none;
