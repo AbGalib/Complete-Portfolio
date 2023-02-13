@@ -39,7 +39,7 @@ section{
   
   .nav li {
     float: left;
-    padding-left: 1vw;
+    padding-left: 0.8vw;
     
   }
   
@@ -73,7 +73,8 @@ h1 span{
     width: 100%;
 }
 .gap{
-    padding-bottom: 40px;
+    padding-bottom: 90px;
+    font-size: 30px;
 }
 
 .portfolio{
@@ -137,8 +138,10 @@ h2{
 }
 
 .contact{
-    margin-top: 50px;
+    padding-top: 50px;
     text-align: center;
+    background-color: antiquewhite;
+    padding-bottom: 270px;
 }
 
 .cnt{
@@ -212,3 +215,12 @@ footer p{
     height: 350px;
     width: 100% ;
 }
+
+.g-1{
+    margin-bottom: 28vw;
+}
+
+.g-2{
+    margin-bottom: 28vw;
+}
+
